@@ -10,7 +10,7 @@ public class BeforeMain {
     }
 
     public static void main(String[] args) {
-        System.out.println("main method");
         BeforeMain beforeMain = new BeforeMain();
+        System.out.println("main method");
     }
 }

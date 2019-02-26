@@ -20,6 +20,5 @@ public class ZadanieKrzysia {
                 System.out.println(i + ": Niepodzielne przez 3, 5 ani 15");
             }
         }
-        BigInteger
     }
 }
